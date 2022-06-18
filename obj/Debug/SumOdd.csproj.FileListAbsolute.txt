@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\SumOdd\SumOdd\bin\Debug\SumOdd.exe.config
+C:\Users\Lenovo\source\repos\SumOdd\SumOdd\bin\Debug\SumOdd.exe
+C:\Users\Lenovo\source\repos\SumOdd\SumOdd\bin\Debug\SumOdd.pdb
+C:\Users\Lenovo\source\repos\SumOdd\SumOdd\obj\Debug\SumOdd.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\SumOdd\SumOdd\obj\Debug\SumOdd.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\SumOdd\SumOdd\obj\Debug\SumOdd.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SumOdd\SumOdd\obj\Debug\SumOdd.exe
+C:\Users\Lenovo\source\repos\SumOdd\SumOdd\obj\Debug\SumOdd.pdb
